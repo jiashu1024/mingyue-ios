@@ -6,10 +6,10 @@ Maintainer: jiashu
 Installed-Size: 164
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.openaigpt.goods_0.0.2_iphoneos-arm64.deb
-Size: 38074
-MD5sum: 4d83bfd5d5fa34ee3a2507d14eafd50b
-SHA1: a715b5f22911c2b85bbc8c96624e023c10d85738
-SHA256: 87b443d538ea941f6f61fc3275804a1a50e72829ed0d12be8daafa252ceb167f
+Size: 38082
+MD5sum: 5e3f3e0851b55c937edb95c144e72dc1
+SHA1: bb259889c563b5b97cb83ae54202d059b0bcd148
+SHA256: 3800b413a43d8ab6f674468119c16ce2b75e68aca4d56d17777739f4dbc191c5
 Section: Tweaks
 Description: iOS IAP Receipt Manager
 Author: jiashu

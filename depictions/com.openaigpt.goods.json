@@ -8,7 +8,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "## mingyue-ios\n\niOS IAP Receipt Manager\n\n### Features\n- IAP receipt management\n- Local database storage\n- Upload to server\n- Transaction info recording\n- Renewal receipt detection"
+          "markdown": "## mingyue-ios\n\niOS收据管理器\n\n### 功能\n- 收据管理\n- 本地数据库存储\n- 上传到服务器\n- 交易信息记录\n- 续费收据检测"
         },
         {
           "class": "DepictionSeparatorView"
@@ -31,7 +31,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "# Changelog\n\n## 0.0.2\n- Release version\n\n## 0.0.1\n- Initial release\n- Basic IAP receipt management\n- Local database support\n- Receipt upload functionality\n- Transaction info recording\n- Renewal receipt detection"
+          "markdown": "# Changelog\n\n## 0.0.2\n1. 设备id支持\n购买收据检测\n步本地\n\n## 0.0.2\n- Release version\n\n## 0.0.1\n- Initial release\n- Basic IAP receipt management\n- Local database support\n- Receipt upload functionality\n- Transaction info recording\n- Renewal receipt detection"
         }
       ],
       "class": "DepictionStackView"
