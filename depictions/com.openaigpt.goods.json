@@ -31,7 +31,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "# Changelog\n\n## 0.0.2\n- 设备ID支持\n- 购买收据检测\n- 同步本地\n\n## 0.0.1\n- 初始版本\n- 基础收据管理\n- 本地数据库支持\n- 收据上传功能"
+          "markdown": "# Changelog\n\n## 0.0.2\n- 设备id支持\n- 收据信息检测\n- 服务器信息同步本地\n\n## 0.0.1\n- 初始版本\n- 基础收据管理\n- 本地数据库支持\n- 收据上传功能"
         }
       ],
       "class": "DepictionStackView"
