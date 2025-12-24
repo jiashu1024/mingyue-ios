@@ -1,0 +1,49 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "",
+  "tintColor": "#007AFF",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## mingyue-ios\n\niOS IAP Receipt Manager\n\n### Features\n- IAP receipt management\n- Local database storage\n- Upload to server\n- Transaction info recording\n- Renewal receipt detection"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "jiashu"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "0.0.1"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "# Changelog
+
+## 0.0.1
+- Initial release
+- Basic IAP receipt management
+- Local database support
+- Receipt upload functionality
+- Transaction info recording
+- Renewal receipt detection"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}

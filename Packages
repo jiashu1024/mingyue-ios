@@ -1,0 +1,17 @@
+Package: com.openaigpt.goods
+SileoDepiction: https://jiashu1024.github.io/mingyue-ios/depictions/com.openaigpt.goods.json
+Version: 0.0.1-107+debug
+Architecture: iphoneos-arm64
+Maintainer: jiashu
+Installed-Size: 276
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.openaigpt.goods_0.0.1-107+debug_iphoneos-arm64.deb
+Size: 60222
+MD5sum: c4ead29d3f17795f67fae178480d40d9
+SHA1: a9a9d50b911af2a0bf86c190026baa1f6d891c85
+SHA256: 2952588956cedfd7150f403401a7fe5a35a0b9d890959d3d159df626490eee46
+Section: Tweaks
+Description: iOS IAP Receipt Manager
+Author: jiashu
+Name: mingyue-ios
+
