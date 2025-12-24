@@ -21,7 +21,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "0.0.1-107+debug"
+          "text": "0.0.2"
         }
       ],
       "class": "DepictionStackView"
@@ -31,7 +31,15 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "# Changelog\n\n## 0.0.1\n- Initial release\n- Basic IAP receipt management\n- Local database support\n- Receipt upload functionality\n- Transaction info recording\n- Renewal receipt detection"
+          "markdown": "# Changelog
+
+## 0.0.1
+- Initial release
+- Basic IAP receipt management
+- Local database support
+- Receipt upload functionality
+- Transaction info recording
+- Renewal receipt detection"
         }
       ],
       "class": "DepictionStackView"
