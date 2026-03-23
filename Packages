@@ -1,15 +1,15 @@
 Package: com.duolingo.goods
 SileoDepiction: https://jiashu1024.github.io/mingyue-ios/depictions/com.duolingo.goods.json
-Version: 0.0.5
+Version: 0.0.6
 Architecture: iphoneos-arm64
 Maintainer: jiashu
 Installed-Size: 128
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.duolingo.goods_0.0.5_iphoneos-arm64.deb
-Size: 25174
-MD5sum: c23f9ee88d95066bcc500f76cd4fa5e6
-SHA1: 2b0e63a2bdcac9bb2c16f8b6a2a81c1bdece34bb
-SHA256: c1da7e63c3ec8772d2cd7acc3cff3f1cf0f460250486f0ad163b14bd69897424
+Filename: debs/com.duolingo.goods_0.0.6_iphoneos-arm64.deb
+Size: 26166
+MD5sum: 0197e1c5179b5c931137ecac9aeb7d06
+SHA1: b7164358f780a0d1f48f618b091984f998ffbabb
+SHA256: 6bc26aeddde31c1d6459984e0fa6e514c8f00e4e7e3ca3a893fad465afe8fff1
 Section: Tweaks
 Description: Duolingo IAP Receipt Manager
 Author: jiashu
