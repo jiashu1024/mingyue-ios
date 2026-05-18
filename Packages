@@ -16,16 +16,16 @@ Name: duolingo-goods
 
 Package: com.openaigpt.goods
 SileoDepiction: https://jiashu1024.github.io/mingyue-ios/depictions/com.openaigpt.goods.json
-Version: 0.0.10
+Version: 0.0.11
 Architecture: iphoneos-arm64
 Maintainer: jiashu
 Installed-Size: 180
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.openaigpt.goods_0.0.10_iphoneos-arm64.deb
-Size: 42552
-MD5sum: 3dbb56ee5fa5a178ec6cdbdba7850003
-SHA1: 391ee67737da53f3987e5b5c30371e3e3672880c
-SHA256: 5266bcacef59ce85d92d24daa781941b7e9b22d3387209f2ba57b0df7630d846
+Filename: debs/com.openaigpt.goods_0.0.11_iphoneos-arm64.deb
+Size: 42696
+MD5sum: 1551523eb6bbcdfe89897c8b0a25e8ab
+SHA1: c76157d75864bff8effc6348fe1da8a4d0657ccd
+SHA256: 83aa2a234cb0f471c546b3f726ca171cc0a820618a55d32c46531a2a61324fef
 Section: Tweaks
 Description: iOS IAP Receipt Manager
 Author: jiashu
